@@ -10,7 +10,7 @@ Supported and planned features:
 
 ## Serving tedge-ui App with Dioxus
 
-Run the following command in the root of the `thin-edge.io` repository:
+Run the following command in the root of the repository:
 
 ```bash
 dx serve --package tedge-ui
